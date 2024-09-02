@@ -14,7 +14,7 @@ if sidebar_selection == "Check list diario de proceso":
     col1, col2, col3 = st.columns([1, 2, 1])
 
     with col2:
-        st.image('Banner.png')
+        #st.image('Banner.png')
 
     # Título principal
     st.markdown("<h1 style='text-align: center; color: black;'>INDUSTRY 4.0</h2>", unsafe_allow_html=True)
