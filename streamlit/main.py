@@ -13,7 +13,7 @@ if sidebar_selection == "Check list diario de proceso":
         # Crear tres columnas y colocar la imagen en la columna del medio
     col1, col2, col3 = st.columns([1, 2, 1])
 
-    with col2:
+    ##with col2:
         #st.image('Banner.png')
 
     # Título principal
