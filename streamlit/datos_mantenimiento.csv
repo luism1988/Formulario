@@ -1,0 +1,7 @@
+Fecha,Tecnico,Máquina,Tarea1,Tarea2,Tarea3,Tarea4,Tarea5,Comentario
+2024-08-31 00:08:29,Tecnico 1,Máquina 1,True,True,False,True,False,xzzxz
+2024-08-31 00:09:57,Tecnico 2,Máquina 4,True,True,True,True,True,esta roto algo
+2024-08-31 00:10:28,Tecnico 1,Máquina 1,False,False,False,False,False,
+2024-08-31,Tecnico 1,Máquina 1,True,False,True,True,False,Nada
+2024-08-31,Tecnico 2,Máquina 3,True,True,True,False,True,Estaba roto el filt
+2024-09-01,Tecnico 2,Máquina 4,True,True,True,True,True,Ok
